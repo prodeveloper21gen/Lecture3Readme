@@ -230,3 +230,4 @@ Determines whether a value is NaN (Not-a-Number).
 ```javascript
 console.log(isNaN('Hello')); // true
 ```
+# de
