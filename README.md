@@ -230,14 +230,3 @@ Determines whether a value is NaN (Not-a-Number).
 ```javascript
 console.log(isNaN('Hello')); // true
 ```
-
-## Conclusion
-
-Understanding and utilizing the various methods available for Strings and Numbers in JavaScript can significantly enhance your programming capabilities. This document has covered some of the most commonly used methods to help you get started.
-
-### Common Number Methods
-- `toString()`: Converts the number to a string.
-  ```javascript
-  let num = 123;
-  console.log(num.toString()); // Output: "123"
-  ```
